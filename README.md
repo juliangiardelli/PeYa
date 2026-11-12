@@ -66,7 +66,7 @@ El código está organizado en paquetes según las responsabilidades de cada par
 1. Clonar o descargar este repositorio.
 2. Importar el proyecto en un IDE compatible con Java.
 3. Agregar el archivo `entorno.jar`, incluido en el repositorio, al *Build Path* o classpath del proyecto.
-4. Ejecutar la clase `juego.Juego), que contiene el método `main`.
+4. Ejecutar la clase `juego.Juego`, que contiene el método `main`.
 5. Mantener los recursos gráficos disponibles en la estructura de carpetas esperada por el proyecto.
 
 > El repositorio no incluye una configuración de construcción mediante Maven o Gradle; la biblioteca `entorno.jar` debe estar agregada al proyecto para compilar y ejecutar.
