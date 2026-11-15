@@ -63,7 +63,7 @@ El código está organizado en paquetes según las responsabilidades de cada par
 ## Contexto académico
 
 - **Materia:** Programación I.
-- **Resultado:** calificación 10.
+- **Resultado:** calificación 9.
 
 ## Integrantes
 
